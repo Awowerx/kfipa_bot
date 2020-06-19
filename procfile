@@ -1,1 +1,1 @@
-web: java -jar build/libs/kfipa_bot.jar
+web: java -jar build/libs/lastkatkabot-1.0-all.jar
