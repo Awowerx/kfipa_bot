@@ -1,4 +1,7 @@
 login: env(kfipa_bot)
+token: env(1135215285:AAFBnGEBw6_Fwu9k-76m1Fae4LlmN2tIpCs)
+getbottoken: env(kfipa_bot)
+getbotlogin: env(1135215285:AAFBnGEBw6_Fwu9k-76m1Fae4LlmN2tIpCs)
 
 mainAdmin: env(733171550) # id of main admin
 
